@@ -11,11 +11,14 @@ User Input: You input the desired year(s) (e.g., 2018, 2019) in the Jupyter Note
 Web Scraping: The script fetches movie data from Wikipedia for the specified year(s).
 Random Movie Selection: The script randomly selects a movie from the fetched list.
 CSV File: The project includes a CSV file containing Bollywood movie names that can be used independently for games like Dumb Charades.
-Repository Structure 📂
-.
-├── bollywood.ipynb   # Jupyter Notebook containing the movie fetching and random movie selection script
-├── movies.csv           # Pre-saved CSV file containing Bollywood movie names
-├── README.md            # Documentation file
+
+# Repository Structure 📂
+
+├── bollywood.ipynb ======> Jupyter Notebook containing the movie fetching and random movie selection script
+
+├── movies.csv ======> Pre-saved CSV file containing Bollywood movie names
+
+├── README.md  ======> Documentation file
 # Prerequisites 📋
 To run the script, you'll need the following:
 
